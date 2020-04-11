@@ -14,7 +14,7 @@ namespace V60Calculator.Calculator
         public CoffeeCalculatorResult CalculateCoffee()
         {
             var outputVolume = Convert.ToInt32(_grains / Ratio);
-            
+
             return new CoffeeCalculatorResult(outputVolume, _grains);
         }
     }

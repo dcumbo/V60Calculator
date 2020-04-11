@@ -1,6 +1,6 @@
 ﻿namespace V60Calculator.Calculator
 {
-    interface ICoffeeCalculator
+    internal interface ICoffeeCalculator
     {
         public CoffeeCalculatorResult CalculateCoffee();
     }
