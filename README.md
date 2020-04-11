@@ -10,7 +10,7 @@ Very simple tool created to calculate weight of coffee required to brew a cup us
 
   -o, --outputcoffeevolume    (Group: Volume) Amount of coffee you in cup in ml. Required if -g is unset.
 
-  -g, --grains                (Group: Volume) Amount of grains you want to use. Ignored if -o is set.
+  -g, --grains                (Group: Volume) Amount of grains you want to use. Ignored if '-o' is set.
 
   -v, --verbose               (Default: false) Output verbose
 
